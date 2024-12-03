@@ -47,28 +47,18 @@ Discover Framey and its features:
 
 - **Manifest v3**: Modern extension API for browsers.
 - **HTML & CSS**: Lightweight and responsive styling.
-- **JavaScript**: Seamless interaction and functionality.
+- **JavaScript & TypeScript**: Seamless interaction and functionality.
 
 ---
 
 ## 🤝 Contributing
 
-We welcome contributions! If you’d like to improve Framey:  
-1. Fork the repository.
-2. Create a feature branch (`git checkout -b feature-name`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-name`).
-5. Open a pull request.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+We welcome contributions! If you’d like to improve Framey.
 
 ---
 
 ## 📧 Contact
 
 For questions or feedback, feel free to reach out:  
-📩 Email: [your-email@example.com](mailto:your-email@example.com)
+📩 [Email](mailto:anas.frontdev@gmail.com)
+📩 [LinkedIn](https://www.linkedin.com/in/anas-developer/)
