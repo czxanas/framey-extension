@@ -7,7 +7,7 @@
 ## 🌐 Visit Framey
 
 Discover Framey and its features:  
-👉 [Framey Official Website](https://framey.vercel.app/)
+👉 [Framey Official Website](https://framey.vercel.app/){:target="_blank"}
 
 ---
 
@@ -30,7 +30,7 @@ Discover Framey and its features:
 
 ## 📸 Demo
 
-👉 [Framey Demo](https://framey.vercel.app/)  
+👉 [Framey Demo](https://framey.vercel.app/){:target="_blank"}  
 *Experience how Framey works in action!
 Click the Play icon to watch a quick demonstration of how effortlessly you can highlight elements on any webpage.*
 
@@ -62,4 +62,4 @@ We welcome contributions! If you’d like to improve Framey.
 
 For questions or feedback, feel free to reach out:  
 📩 [Email](mailto:anas.frontdev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/anas-developer/)
+💼 [LinkedIn](https://www.linkedin.com/in/anas-developer/){:target="_blank"}
