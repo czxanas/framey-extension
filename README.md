@@ -47,7 +47,7 @@ Discover Framey and its features:
 
 - **Manifest v3**: Modern extension API for browsers.
 - **HTML & CSS**: Lightweight and responsive styling.
-- **JavaScript & TypeScript**: Seamless interaction and functionality.
+- **TypeScript**: Seamless interaction and functionality.
 
 ---
 
