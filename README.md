@@ -30,8 +30,9 @@ Discover Framey and its features:
 
 ## 📸 Demo
 
-![Framey Demo](https://your-demo-link.gif)  
-*Highlight elements with ease in a matter of seconds.*
+👉 [Framey Demo](https://framey.vercel.app/)  
+*Experience how Framey works in action!
+Click the Play icon to watch a quick demonstration of how effortlessly you can highlight elements on any webpage.*
 
 ---
 
