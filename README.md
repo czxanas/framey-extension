@@ -62,4 +62,4 @@ We welcome contributions! If you’d like to improve Framey.
 
 For questions or feedback, feel free to reach out:  
 📩 [Email](mailto:anas.frontdev@gmail.com)  
-📩 [LinkedIn](https://www.linkedin.com/in/anas-developer/)
+💼 [LinkedIn](https://www.linkedin.com/in/anas-developer/)
