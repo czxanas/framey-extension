@@ -1,6 +1,6 @@
 # Highlight Any Element on Your Page with Ease 🎨
 
-**Framey** is a lightweight browser extension that helps you visually highlight any element on your webpage with customizable colors. Perfect for developers, designers, or anyone needing a clear visual guide for webpage elements.
+**Framey** is a lightweight browser extension that helps you visually highlight any element on your webpage with customizable colors & styles. Perfect for developers, designers, or anyone needing a clear visual guide for webpage elements.
 
 ---
 
