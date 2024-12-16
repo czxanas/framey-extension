@@ -22,7 +22,7 @@ Discover Framey and its features:
 
 ## 🛠 Installation
 
-1. Visit the Chrome Web Store to download the extension (link coming soon!).
+1. Visit the Chrome Web Store to download the extension.
 2. Add Framey to your browser.
 3. Start highlighting elements with just one click!
 
