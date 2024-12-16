@@ -40,7 +40,7 @@ Click the Play icon to watch a quick demonstration of how effortlessly you can h
 
 1. Open any webpage.
 2. Click on the Framey icon in your browser's toolbar.
-3. Pick a color and start highlighting elements!
+3. Pick a color, style and start highlighting elements!
 
 ---
 
